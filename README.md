@@ -1,4 +1,6 @@
 # loopback4
 
-[![LoopBack](https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
-# docker_loopback_api
+# docker build -t tientv/loopback
+
+# docker run -d -p 4001:3000 tientv/loopback
+
